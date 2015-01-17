@@ -38,7 +38,7 @@
 
 <p>Mars is named after the Roman god of war, it is often described as the “Red Planet” because the iron oxide prevalent on its surface gives it a reddish appearance.</p>
 
-<img src="images/mars.jpg" alt="A computer-generated image of Mars from real data.">
+<img src="assignment-2/mars.jpg" alt="A computer-generated image of Mars from real data.">
 
 <figcaption>A computer-generated image of Mars from real data.</figcaption>
 
@@ -57,7 +57,7 @@
 
 <p>Venus is the second planet from the Sun, orbiting it every 224.7 Earth days.</p>
 
-<img src="images/venus.jpg" alt="A real-colour image of Venus processed from two filters. The surface is obscured by a thick blanket of clouds.">
+<img src="assignment-2/venus.jpg" alt="A real-colour image of Venus processed from two filters. The surface is obscured by a thick blanket of clouds.">
 
 <figcaption>A real-colour image of Venus processed from two filters. The surface is obscured by a thick blanket of clouds.</figcaption>
 
